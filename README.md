@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**railworks2/railworks2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Dave! I'm a British university student studying cybersecurity.
 
-Here are some ideas to get you started:
+In my free time, I am a developer for the [Roblox platform](https://roblox.com/) where I help people make games.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Learn more about that work @ [railworks2.com](https://railworks2.com/)<br>
+Learn more about what I've done @ [railworks2.dev](https://railworks2.dev/)
+
+I'm currently learning C++, Ansible, and generally how to Linux (primarily in the server space).<br>
+If you want some help, feel free to contact me I'd love to help where I can.<br>
+If you want to contact me, visit [verify.railworks2.com](https://verify.railworks2.com/); all my socials are there.<br>
+If you want to visit my personal website, head to [davebrown.me](https://davebrown.me/)<br>
+Pronouns: He/Him
